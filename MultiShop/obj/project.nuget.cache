@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9a66kA3XCOBjx9wkW6xFh7iWlJ0PWEjeepnnVoCHTCqOgxQqleEc6a6IQzTD/tcl8GkhoVoBg1AQyPcTZQA7Ag==",
+  "dgSpecHash": "s9o8C+1T3oGY+mF+65pmOI/kRSQXd6pskTcQycAnXFqfB1gUkajQyerfXN6gYzDLyJTfLuvAJ9snIicQSmwdvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca.r215.04\\source\\repos\\MultiShop\\MultiShop\\MultiShop.csproj",
+  "projectFilePath": "C:\\Users\\ca.r215.04\\Desktop\\MultiShop\\MultiShop\\MultiShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ca.r215.04\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\ca.r215.04\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
@@ -81,6 +81,7 @@
     "C:\\Users\\ca.r215.04\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\ca.r215.04\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\ca.r215.04\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\ca.r215.04\\.nuget\\packages\\stripe.net\\41.4.0\\stripe.net.41.4.0.nupkg.sha512",
     "C:\\Users\\ca.r215.04\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\ca.r215.04\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\ca.r215.04\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

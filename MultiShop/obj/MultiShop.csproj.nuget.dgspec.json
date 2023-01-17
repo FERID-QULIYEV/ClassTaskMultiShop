@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r215.04\\source\\repos\\MultiShop\\MultiShop\\MultiShop.csproj": {}
+    "C:\\Users\\ca.r215.04\\Desktop\\MultiShop\\MultiShop\\MultiShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r215.04\\source\\repos\\MultiShop\\MultiShop\\MultiShop.csproj": {
+    "C:\\Users\\ca.r215.04\\Desktop\\MultiShop\\MultiShop\\MultiShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r215.04\\source\\repos\\MultiShop\\MultiShop\\MultiShop.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r215.04\\Desktop\\MultiShop\\MultiShop\\MultiShop.csproj",
         "projectName": "MultiShop",
-        "projectPath": "C:\\Users\\ca.r215.04\\source\\repos\\MultiShop\\MultiShop\\MultiShop.csproj",
+        "projectPath": "C:\\Users\\ca.r215.04\\Desktop\\MultiShop\\MultiShop\\MultiShop.csproj",
         "packagesPath": "C:\\Users\\ca.r215.04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r215.04\\source\\repos\\MultiShop\\MultiShop\\obj\\",
+        "outputPath": "C:\\Users\\ca.r215.04\\Desktop\\MultiShop\\MultiShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ca.r215.04\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.11, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[41.4.0, )"
             }
           },
           "imports": [

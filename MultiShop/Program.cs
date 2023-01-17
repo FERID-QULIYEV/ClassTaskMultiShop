@@ -10,7 +10,7 @@ namespace MultiShop
             app.UseStaticFiles();
             app.UseRouting();
             app.MapControllerRoute(name: "areas",pattern: "{area:exists}/{controller=DashBoard}/{action=Index}/{id?}");
-            app.MapControllerRoute("default","{controller=Home}/{action=Index}/{id?}");
+            app.MapControllerRoute(name: "default",pattern: "{controller=Home}/{action=Index}/{id?}");
             app.MapControllerRoute(name: "Shop", pattern: "Shop", defaults: new { Controller = "Home", Action = "Shop" });
             app.MapControllerRoute(name: "Detail", pattern: "Detail", defaults: new { Controller = "Home", Action = "Detail" });
             app.MapControllerRoute(name: "Cart", pattern: "Cart", defaults: new { Controller = "Home", Action = "Cart" });
